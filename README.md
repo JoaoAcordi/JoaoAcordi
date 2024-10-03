@@ -21,4 +21,7 @@ habilidades em um ambiente desafiador.
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoacordi&hide_progress=true&custom_title=Linguagens%20mais%20utilizadas&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoacordi&hide_progress=true&custom_title=Linguagens%20mais%20utilizadas&theme=dark&layout=pie) 
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-acordi-1558a0253/)
