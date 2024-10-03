@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @JoaozinhoProgramation
-- 👀 I’m interested in learn, learn and learn 
-- 🌱 I’m currently learning programmation,programmation and programmation
-- 💞️ I’m looking to collaborate on all for learning
-- 📫 How to reach me in Satc
+# João Pedro Acordi
 
-<!---
-JoaozinhoProgramation/JoaozinhoProgramation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Olá! Eu sou João Pedro Acordi, desenvolvedor com 1 ano de experiência em Progress e
+conhecimento em Node.js, Python, Java e SQL, adquiridos
+no curso de Informática da SATC e no curso de Engenharia
+de Software. Tenho experiência prática com ERP, atuando
+nas áreas financeira e de suprimentos, além de
+atendimento a chamados e contato direto com clientes.
+Busco oportunidades para aplicar e expandir minhas
+habilidades em um ambiente desafiador.
+
+## 💻 Tecnologias e Linguagens
+
+- **HTML5** ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- **CSS3** ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **JavaScript** ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **React** ![REACT Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- **React Native** ![REACTN Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- **Python** ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoacordi&hide_progress=true)
