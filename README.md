@@ -21,4 +21,4 @@ habilidades em um ambiente desafiador.
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoacordi&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoacordi&hide_progress=true&custom_title=Linguagens%20mais%20utilizadas&theme=dark) 
