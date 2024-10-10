@@ -3,11 +3,7 @@
 👋 Olá! Eu sou João Pedro Acordi, desenvolvedor com 1 ano de experiência em Progress e
 conhecimento em Node.js, Python, Java e SQL, adquiridos
 no curso de Informática da SATC e no curso de Engenharia
-de Software. Tenho experiência prática com ERP, atuando
-nas áreas financeira e de suprimentos, além de
-atendimento a chamados e contato direto com clientes.
-Busco oportunidades para aplicar e expandir minhas
-habilidades em um ambiente desafiador.
+de Software.
 
 ## 💻 Tecnologias e Linguagens
 
